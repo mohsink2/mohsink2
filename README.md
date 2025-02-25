@@ -2,7 +2,7 @@
 
 ## Personal Projects
 * ### Home Lab Setup with Active Directory and VPN Connectivity</b>
-  * Guide for installation
+  * Installation and Setup
   * Configuring Active Directory
   * VPN Connectivity
 * ### osTicket: Creating a Ticketing System for Help Desk
