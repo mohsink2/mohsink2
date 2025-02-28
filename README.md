@@ -3,8 +3,8 @@
 ## Personal Projects
 * ### Home Lab Setup with Active Directory and VPN Connectivity</b>
   * [Oracle VirtualBox: Installation and Setup](https://github.com/mohsink2/homelab-setup/blob/main/README.md)
-  * [Windows Server 2022: Configuring Active Directory](https://github.com/mohsink2/conf-activedirectory/blob/main/README.md)
-  * VPN Connectivity
+  * [Oracle VirtualBox: Configuring Active Directory](https://github.com/mohsink2/conf-activedirectory/blob/main/README.md)
+  * [Oracle VirtualBox: VPN Connectivity](https://github.com/mohsink2/conf-vpn)
 * ### osTicket: Creating a Ticketing System for Help Desk
 
 
